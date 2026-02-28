@@ -9,9 +9,9 @@
 - 👯 Estou procurando 'colaborar em um Estagio onde eu possa desenvolver meus conhecimentos'. 
 - 💬 Pergunte-me sobre:'O que torna a tecnologia a profissao do futuro?'.
 - 📫 Como entrar em contato comigo: 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" widht =40, height = 60 /> :https://www.linkedin.com/in/kau%C3%A3-victor-216800344/ 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" widht =40, height = 40 /> :https://www.linkedin.com/in/kau%C3%A3-victor-216800344/ 
                                      
- 
 
 - 😄 Pronomes: ...
 - ⚡ Curiosidade: ...
