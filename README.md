@@ -16,9 +16,6 @@
 
 <div>
 <a href="https://github.com/KauaVictorDev">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?https://github.com/KauaVictorDev&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?https://github.com/KauaVictorDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?https://github.com/KauaVictorDev-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-https://github.com/KauaVictorDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-
-![Snake animation](https://github.com/KauaVictorDev/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
