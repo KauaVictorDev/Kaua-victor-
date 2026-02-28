@@ -21,4 +21,4 @@
 </div>
 
 
-![Snake animation](https://github.com/KauaVictorDev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/KauaVictorDev/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
