@@ -21,8 +21,4 @@
 <a href="https://www.linkedin.com/in/kau%C3%A3-victor-216800344/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<div>
-<a href="https://github.com/Kaua-victor-">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?https://github.com/Kaua-victor-&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-https://github.com/Kaua-victor-show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+
